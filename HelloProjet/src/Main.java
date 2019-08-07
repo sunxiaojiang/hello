@@ -10,5 +10,8 @@ public class Main {
         System.out.println("HelloWorld!3");
         System.out.println("HelloWorld!4");
         System.out.println("HelloWorld!4");
+        System.out.println("HelloWorld!6");
+        System.out.println("HelloWorld!6");
+
     }
 }
